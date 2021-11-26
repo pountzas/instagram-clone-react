@@ -10262,7 +10262,7 @@
     "picocolors" "^0.2.1"
     "source-map" "^0.6.1"
 
-"postcss@^8.0.0", "postcss@^8.0.9", "postcss@^8.1.0", "postcss@^8.1.6", "postcss@^8.2.1", "postcss@^8.2.14", "postcss@>=5.0.0", "postcss@>=7.0.0":
+"postcss@^8.0.0", "postcss@^8.0.9", "postcss@^8.1.0", "postcss@^8.1.6", "postcss@^8.2.1", "postcss@^8.2.14", "postcss@^8.4.3", "postcss@>=5.0.0", "postcss@>=7.0.0":
   "integrity" "sha512-d5gVKo8ekrircqHOQNvSQk8dhGOuAfu1iP6dzfAlnAmcu7EBJ9cFuZG8B1KZK362aaEO3L1H+WM3ny9xQ29tFw=="
   "resolved" "https://registry.npmjs.org/postcss/-/postcss-8.4.3.tgz"
   "version" "8.4.3"
