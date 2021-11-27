@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { useState, useContext, useEffect } from 'react';
 import { useHistory } from 'react-router-dom';
 import FirebaseContext from '../context/firebase';
@@ -19,6 +20,8 @@ export default function Login() {
   }, []);
 
   return (
-    <p>login page</p>
+    <div className="container flex mx-auto items-center bg-red-500">
+      <p>login page</p>
+    </div>
   );
 }
